@@ -1,5 +1,5 @@
 # x64dbg_plugin
-x64dbg插件合集方便大家下载主要都是官方链接 https://github.com/x64dbg/x64dbg/wiki/Plugins 中的
+x64dbg插件合集，方便大家下载，主要整理了官方链接 https://github.com/x64dbg/x64dbg/wiki/Plugins 中的
 
 有的需要PyQt5
 
