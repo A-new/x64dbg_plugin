@@ -1,0 +1,48 @@
+{
+  "features": {
+    "auto_start_mcp_on_plugin_load": false,
+    "enable_batch_requests": true,
+    "enable_heartbeat": true,
+    "enable_notifications": true,
+    "heartbeat_interval_seconds": 30
+  },
+  "logging": {
+    "console_output": true,
+    "enabled": true,
+    "file": "plugin.log",
+    "level": "info",
+    "max_file_size_mb": 10
+  },
+  "permissions": {
+    "allow_breakpoint_modification": true,
+    "allow_memory_write": true,
+    "allow_register_write": true,
+    "allow_script_execution": true,
+    "allowed_methods": [
+      "breakpoint.*",
+      "comment.*",
+      "context.*",
+      "debug.*",
+      "disasm.*",
+      "disassembly.*",
+      "dump.*",
+      "memory.*",
+      "module.*",
+      "register.*",
+      "script.*",
+      "stack.*",
+      "symbol.*",
+      "thread.*"
+    ]
+  },
+  "server": {
+    "address": "127.0.0.1",
+    "port": 3000
+  },
+  "timeout": {
+    "memory_read_timeout_ms": 5000,
+    "request_timeout_ms": 30000,
+    "step_timeout_ms": 10000
+  },
+  "version": "1.0.3"
+}

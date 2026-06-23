@@ -1,0 +1,24 @@
+[2026-06-23 17:54:22.946] [INFO ] x32dbg MCP Server Plugin v1.0.3 initializing...
+[2026-06-23 17:54:22.948] [INFO ] Configuration loaded from: D:\crack\x64dbg\release\x32\plugins\x32dbg-mcp\config.json
+[2026-06-23 17:54:22.948] [INFO ] PermissionChecker initialized with 14 allowed patterns
+[2026-06-23 17:54:22.948] [INFO ] PermissionChecker initialized
+[2026-06-23 17:54:22.948] [INFO ] Registering default MCP tools...
+[2026-06-23 17:54:22.949] [INFO ] Registered 69 MCP tools
+[2026-06-23 17:54:22.949] [INFO ] Registering default MCP resources...
+[2026-06-23 17:54:22.949] [INFO ] Registered 7 resources and 8 templates
+[2026-06-23 17:54:22.949] [INFO ] Registering default MCP prompts...
+[2026-06-23 17:54:22.950] [INFO ] Registered 10 prompts
+[2026-06-23 17:54:22.951] [INFO ] Registered debug.* methods
+[2026-06-23 17:54:22.951] [INFO ] Registered register.* methods
+[2026-06-23 17:54:22.952] [INFO ] Registering stack methods...
+[2026-06-23 17:54:22.952] [INFO ] Stack methods registered
+[2026-06-23 17:54:22.952] [INFO ] Registering thread methods...
+[2026-06-23 17:54:22.952] [INFO ] Thread methods registered
+[2026-06-23 17:54:22.952] [INFO ] Registered module.* methods
+[2026-06-23 17:54:22.952] [INFO ] All JSON-RPC methods registered
+[2026-06-23 17:54:22.952] [INFO ] All callbacks registered
+[2026-06-23 17:54:22.952] [INFO ] Initializing event callback handler
+[2026-06-23 17:54:22.952] [INFO ] Plugin initialized successfully
+[2026-06-23 17:54:40.891] [INFO ] Plugin stopping...
+[2026-06-23 17:54:40.891] [INFO ] Cleaning up event callback handler
+[2026-06-23 17:54:40.891] [INFO ] Plugin stopped
